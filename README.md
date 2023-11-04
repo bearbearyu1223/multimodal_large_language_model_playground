@@ -1,1 +1,1 @@
-# multimodal_large_language_model_playground
+# Multimodal Large Language Model Playground
